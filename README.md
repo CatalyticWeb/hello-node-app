@@ -9,4 +9,4 @@ To use this app, you need to make sure you have node.js and Node Packet Manager 
       `node Hello\ Node/test.js` 
 This will start all the processes for the app, as well as hosting the webpage that all the content will appear on. 
   > *NOTE: You may have to allow the program to work on your computer by clicking allow on a security pop up box after running the above command.* 
-  - Open a web browser and navigate to [localhost:3000](localhost:3000), and there you will see the web app working in your browser.
+- Open a web browser and navigate to [localhost:3000](localhost:3000), and there you will see the web app working in your browser.
